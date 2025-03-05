@@ -1,4 +1,4 @@
-baseURL = 'https://yuhui.github.io/'
+baseURL = 'https://vampeng.github.io/'
 languageCode = 'zh-cn'
 title = 'My Personal Blog'
 theme = 'PaperMod'

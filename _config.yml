@@ -1,6 +1,0 @@
-title: My Personal Blog
-description: A blog about my thoughts and experiences.
-baseurl: ""  # the subpath of your site, e.g. /blog
-url: "http://yourusername.github.io"  # the base hostname & protocol for your site
-markdown: kramdown
-theme: minima
